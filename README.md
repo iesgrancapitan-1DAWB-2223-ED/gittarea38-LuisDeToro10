@@ -1,0 +1,8 @@
+![Captura.PNG](Capturas/Captura.PNG)
+![Captura2.PNG](Capturas/Captura2.PNG)
+![Captura3.PNG](Capturas/Captura3.PNG)
+![Captura4.PNG](Capturas/Captura4.PNG)
+![Captura5.PNG](Capturas/Captura5.PNG)
+![Captura6.PNG](Capturas/Captura6.PNG)
+![Captura7.PNG](Capturas/Captura7.PNG)
+![Captura8.PNG](Capturas/Captura8.PNG)
